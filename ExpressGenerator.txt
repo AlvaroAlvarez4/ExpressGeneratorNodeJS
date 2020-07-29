@@ -1,0 +1,10 @@
+        1.Crear un proyecto con express generator
+         (   npm install express generanor -g No se vuelve a ejecutar.
+          Lo instalamos de manera global 1 sola vez por ordenador  )
+        .. container, row,cols
+
+        2.Crear 2 Vistas diferentes con : 1. 2 cards de bootstrap con imagenes y texto
+                                        2. Un div con una imagen de fondo y que tenga un h3 rojo
+                                         en el centro y que sea responsive
+
+        3.Una ruta nueva que sea alumnos va tener 2 get cada te renderriza a un ejs distinto que lleve a las vistas anteriores

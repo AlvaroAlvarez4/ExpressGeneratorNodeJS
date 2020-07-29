@@ -1,0 +1,28 @@
+body {
+    padding: 50px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+    color: #00B7FF;
+}
+
+.MiclaseCenter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bg-alumnos {
+    background-image: url(https://codehouse.academy/wp-content/uploads/2019/08/logo-code-house-academy-footer.png);
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bg-alumnos h3 {
+    color: red;
+}
